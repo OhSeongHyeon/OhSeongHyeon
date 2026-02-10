@@ -22,28 +22,3 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" />
 </div>
-
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Contact me</h2>
-  <br />
-  <div align="center">
-    <a href="mailto:wert3976@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wert3976@gmail.com" alt="Gmail" />
-    </a>
-  </div>
-  <br />
-</div>
-
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Stats</h2>
-  <div align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=OhSeongHyeon&bg_color=180,000000,&title_color=ffffff&text_color=ffffff"
-      alt="GitHub stats"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhSeongHyeon&layout=compact&bg_color=180,000000,&title_color=ffffff&text_color=ffffff"
-      alt="Top languages"
-    />
-  </div>
-</div>
